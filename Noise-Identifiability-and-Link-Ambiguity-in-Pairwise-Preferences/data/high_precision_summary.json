@@ -1,0 +1,21 @@
+{
+  "eta_limit": 0.16148624987134622,
+  "slopes": {
+    "explicit_max_probability_difference": 4.99943475450024,
+    "optimized_max_probability_difference": 4.999708369971736,
+    "explicit_kl": 9.999171541322687,
+    "optimized_kl": 9.999601331443548
+  },
+  "k4_fifth_residual": [
+    "6",
+    "-12",
+    "6",
+    "18",
+    "-12",
+    "6"
+  ],
+  "k4_fifth_residual_norm2": "720",
+  "k4_optimized_kl_leading_coefficient": "9*pi**4/16384000",
+  "k4_optimized_kl_leading_coefficient_float": 5.350841182287732e-05,
+  "precision_decimal_digits": 80
+}

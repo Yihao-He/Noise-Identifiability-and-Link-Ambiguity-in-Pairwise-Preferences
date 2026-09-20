@@ -1,0 +1,15 @@
+{
+  "graphs": 13,
+  "population_cells": 104,
+  "finite_datasets": 2400,
+  "exact_sparse_G3": 162,
+  "exact_sparse_G5": 400,
+  "all_population_solvers_converged": true,
+  "max_information_coefficient_relative_error": 0.0001248016316381939,
+  "max_kl_coefficient_relative_error": 0.0003823573571604122,
+  "max_scaled_population_score": 6.268836586372441e-09,
+  "finite_final_failed_fits": 0,
+  "finite_final_profile_failures": 0,
+  "finite_boundary_mles": 60,
+  "status": "passed"
+}

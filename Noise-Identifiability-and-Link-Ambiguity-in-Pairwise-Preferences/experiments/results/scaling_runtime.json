@@ -1,0 +1,9 @@
+{
+  "seconds": 65.57638799998676,
+  "precision": 60,
+  "noise_domain_b": [
+    0.3,
+    0.95
+  ],
+  "graphs": 13
+}

@@ -1,0 +1,10 @@
+{
+  "checked": 60,
+  "max_eta_change": 0.0006757528282508307,
+  "max_lower_change": 0.001595557901791389,
+  "max_upper_change": 0.00016426063417529502,
+  "max_deviance_change": 0.08497453385587406,
+  "coverage_decisions_changed": 0,
+  "profile_failures": 0,
+  "seconds": 39.31724909998593
+}

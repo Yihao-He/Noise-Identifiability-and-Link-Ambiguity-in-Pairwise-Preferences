@@ -1,0 +1,21 @@
+{
+  "old_files_checked": 86,
+  "changed_old_files": [],
+  "finite_rows": 3200,
+  "expected_finite_rows": 3200,
+  "cache_forwards": 384,
+  "new_judge_calls": 0,
+  "cache_fits": 256,
+  "cache_nonconverged_fits": [
+    {
+      "id": "6fe68e4ae7f3f4606a322605e0be63720d7de50d9df26eefb43f855e134f8566",
+      "aggregation": "forward",
+      "link": "L",
+      "residual_rmse": "0.07506247486610756"
+    }
+  ],
+  "figure_visual_review": "All three PNG figures inspected; no cropped labels or omitted plotted observations.",
+  "final_gpu_utilization_percent": 0,
+  "final_gpu_memory_MiB": 1,
+  "final_gpu_compute_processes": 0
+}

@@ -1,0 +1,10 @@
+{
+  "seconds": 299.39138649997767,
+  "seed": 20260921,
+  "replicates_per_cell": 200,
+  "workers": 8,
+  "failures": 23,
+  "profile_failures": 1143,
+  "utility_boundary": 48,
+  "widened_fits": 320
+}

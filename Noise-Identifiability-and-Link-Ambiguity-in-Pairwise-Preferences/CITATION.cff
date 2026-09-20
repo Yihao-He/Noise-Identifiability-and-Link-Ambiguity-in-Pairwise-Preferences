@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the accompanying manuscript."
+title: "Noise Identifiability and Link Ambiguity in Pairwise Preferences"
+type: software
+authors:
+  - family-names: He
+    given-names: Yihao
+  - family-names: Li
+    given-names: Quanyi
+abstract: "Code and numeric data for noise identifiability and link ambiguity in pairwise preferences."

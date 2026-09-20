@@ -1,0 +1,11 @@
+{
+  "eta_true": 0.17075722950180738,
+  "coverage": 0.975,
+  "coverage_count": 195,
+  "replicates": 200,
+  "mean_width": 0.022309020218535612,
+  "bias": -0.00020684276860769013,
+  "failed_fits": 0,
+  "failed_profiles": 0,
+  "seconds": 27.900612999976147
+}

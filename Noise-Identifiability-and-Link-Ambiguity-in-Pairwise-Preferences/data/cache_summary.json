@@ -1,0 +1,36 @@
+{
+  "prompts": 32,
+  "cached_forwards": 384,
+  "new_judge_calls": 0,
+  "cache_sha256": "305956bca869d4fb6231743ac2d3d57fa25790bab3409d3019ea59e565022ad6",
+  "max_probability_reconstruction_difference": 4.909613648962363e-08,
+  "max_old_mapping_difference": 0.0,
+  "medians": {
+    "position_rms": 0.5464456468947281,
+    "mean_beta": -1.3326822916666665,
+    "beta_edge_sd": 0.3335809680581785,
+    "cycle_logit_rms": 0.11892681328305382,
+    "common_beta_logit_rmse": 0.3476310453072665,
+    "common_beta_probability_rmse": 0.06343011290276694,
+    "mean_aggregation_change": 0.016472263383816646,
+    "max_aggregation_change": 0.035714392363734054,
+    "forward_L_residual": 0.05611116407506091,
+    "forward_L_eta": 0.17917512158820453,
+    "reverse_mapped_L_residual": 0.050585244644458835,
+    "reverse_mapped_L_eta": 0.18623449431536127,
+    "probability_mean_L_residual": 0.019868866326735533,
+    "probability_mean_L_eta": 0.31725936461786275,
+    "logit_mean_L_residual": 0.02031045617159296,
+    "logit_mean_L_eta": 0.254878504181272
+  },
+  "mismatch_counts": {
+    "('forward', 'L')": 7,
+    "('forward', 'P')": 7,
+    "('logit_mean', 'L')": 23,
+    "('logit_mean', 'P')": 23,
+    "('probability_mean', 'L')": 27,
+    "('probability_mean', 'P')": 27,
+    "('reverse_mapped', 'L')": 10,
+    "('reverse_mapped', 'P')": 10
+  }
+}

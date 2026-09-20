@@ -1,0 +1,169 @@
+{
+  "selection": "largest multistart deviance spread in each k/delta/world/link cell with delta <= .05",
+  "precision": 70,
+  "checks": [
+    {
+      "k": 3,
+      "delta": 0.025,
+      "world": "logistic_Q",
+      "rep": 48,
+      "link": "L",
+      "eta_difference": 9.595377006459094e-12,
+      "deviance_difference": 6.37236004274189e-57,
+      "profile_cutoff_max_error": 4.2493770655486554e-08
+    },
+    {
+      "k": 3,
+      "delta": 0.025,
+      "world": "logistic_Q",
+      "rep": 48,
+      "link": "P",
+      "eta_difference": 3.1809412842077245e-12,
+      "deviance_difference": 6.018650619747508e-57,
+      "profile_cutoff_max_error": 3.989549781736588e-08
+    },
+    {
+      "k": 3,
+      "delta": 0.025,
+      "world": "probit_P",
+      "rep": 7,
+      "link": "L",
+      "eta_difference": 1.4603619514809093e-12,
+      "deviance_difference": 8.392546292318044e-57,
+      "profile_cutoff_max_error": 2.8858223065529282e-08
+    },
+    {
+      "k": 3,
+      "delta": 0.025,
+      "world": "probit_P",
+      "rep": 7,
+      "link": "P",
+      "eta_difference": 1.1530668072185356e-11,
+      "deviance_difference": 6.57764651698851e-57,
+      "profile_cutoff_max_error": 3.909006837359129e-08
+    },
+    {
+      "k": 3,
+      "delta": 0.05,
+      "world": "logistic_Q",
+      "rep": 78,
+      "link": "L",
+      "eta_difference": 7.283042413763416e-13,
+      "deviance_difference": 0.0,
+      "profile_cutoff_max_error": 1.219428024545137e-09
+    },
+    {
+      "k": 3,
+      "delta": 0.05,
+      "world": "logistic_Q",
+      "rep": 78,
+      "link": "P",
+      "eta_difference": 2.765798184404796e-12,
+      "deviance_difference": 8.352313008910595e-60,
+      "profile_cutoff_max_error": 1.417885715578196e-09
+    },
+    {
+      "k": 3,
+      "delta": 0.05,
+      "world": "probit_P",
+      "rep": 70,
+      "link": "L",
+      "eta_difference": 3.0230323957006614e-12,
+      "deviance_difference": 2.784572343119638e-60,
+      "profile_cutoff_max_error": 6.846328897065762e-10
+    },
+    {
+      "k": 3,
+      "delta": 0.05,
+      "world": "probit_P",
+      "rep": 142,
+      "link": "P",
+      "eta_difference": 7.547106377402057e-13,
+      "deviance_difference": 0.0,
+      "profile_cutoff_max_error": 9.085720508104585e-10
+    },
+    {
+      "k": 4,
+      "delta": 0.025,
+      "world": "logistic_Q",
+      "rep": 194,
+      "link": "L",
+      "eta_difference": 1.8392140035536271e-10,
+      "deviance_difference": 7.720500335978602e-10,
+      "profile_cutoff_max_error": 4.0045646285599747e-07
+    },
+    {
+      "k": 4,
+      "delta": 0.025,
+      "world": "logistic_Q",
+      "rep": 194,
+      "link": "P",
+      "eta_difference": 4.1584285729824656e-09,
+      "deviance_difference": 1.4128131410106724e-09,
+      "profile_cutoff_max_error": 4.569630985831654e-07
+    },
+    {
+      "k": 4,
+      "delta": 0.025,
+      "world": "probit_P",
+      "rep": 132,
+      "link": "L",
+      "eta_difference": 4.64853270206672e-08,
+      "deviance_difference": 9.907541761338721e-09,
+      "profile_cutoff_max_error": 4.794880413205853e-07
+    },
+    {
+      "k": 4,
+      "delta": 0.025,
+      "world": "probit_P",
+      "rep": 132,
+      "link": "P",
+      "eta_difference": 1.9924308354596418e-12,
+      "deviance_difference": 7.751368869775308e-09,
+      "profile_cutoff_max_error": 4.959087814866266e-07
+    },
+    {
+      "k": 4,
+      "delta": 0.05,
+      "world": "logistic_Q",
+      "rep": 195,
+      "link": "L",
+      "eta_difference": 2.081932142661664e-09,
+      "deviance_difference": 1.556569323899501e-09,
+      "profile_cutoff_max_error": 1.9939473314536764e-08
+    },
+    {
+      "k": 4,
+      "delta": 0.05,
+      "world": "logistic_Q",
+      "rep": 142,
+      "link": "P",
+      "eta_difference": 3.6608583694296625e-11,
+      "deviance_difference": 5.752206639329929e-10,
+      "profile_cutoff_max_error": 6.70277636611753e-08
+    },
+    {
+      "k": 4,
+      "delta": 0.05,
+      "world": "probit_P",
+      "rep": 8,
+      "link": "L",
+      "eta_difference": 7.099686306524074e-09,
+      "deviance_difference": 2.196336555827729e-09,
+      "profile_cutoff_max_error": 3.8798610245349185e-08
+    },
+    {
+      "k": 4,
+      "delta": 0.05,
+      "world": "probit_P",
+      "rep": 185,
+      "link": "P",
+      "eta_difference": 2.0001802990360186e-10,
+      "deviance_difference": 6.69138987357155e-10,
+      "profile_cutoff_max_error": 1.6906817167485848e-08
+    }
+  ],
+  "max_eta_difference": 4.64853270206672e-08,
+  "max_deviance_difference": 9.907541761338721e-09,
+  "max_profile_cutoff_error": 4.959087814866266e-07
+}
