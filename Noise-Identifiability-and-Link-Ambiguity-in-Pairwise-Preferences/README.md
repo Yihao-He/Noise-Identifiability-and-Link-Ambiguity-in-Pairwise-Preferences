@@ -120,5 +120,4 @@ directory must not exist. The published saved data are retained unchanged.
 ## Contact and citation
 
 Corresponding author: Yihao He, heyh@mails.neu.edu.cn.
-See `CITATION.cff` for the paper title and authors. This repository accompanies a
-manuscript; no publication DOI or acceptance status is claimed.
+See `CITATION.cff` for the paper title and authors. 
